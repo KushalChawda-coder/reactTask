@@ -1,0 +1,41 @@
+button{
+
+    width: 94px;
+    font-size: 40px;
+    background: chartreuse;
+    height: 73px;
+    text-align: -webkit-center;
+    margin:2px;
+    border-radius: 21px;
+  
+  }
+  input{
+    font-size: 34px;
+    width: 395px;
+  
+    margin-left: 3px;
+    margin-bottom: 10px;
+    border: 5px solid darkgreen;
+    border-radius: 21px;
+  }
+  button:hover{
+  
+    color:  lightgreen;
+    background: black;
+  }
+  h1{
+    text-align: center;
+    width: 400px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family:arial;
+  }
+  .calculater{
+    display: inline-block;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 21px;
+    background-color: gray;
+  }
+  
